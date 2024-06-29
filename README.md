@@ -1,5 +1,6 @@
 Hi 👋 My name is Adam Taylor
 ============================
+<img align="right" alt="Coding" width="400" height = "400" src="https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif">
 
 C# Unity Developer
 ------------------
