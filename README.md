@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi 👋 My name is Adam Taylor
+============================
 
-<!--
-**MrAdamTaylor/MrAdamTaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C# Unity Developer
+------------------
 
-Here are some ideas to get you started:
+My journey into it began with entering university in 2018. As part of my studies, I tried myself in many directions. Studied languages ​​C, C++, Python, C#. In 2020, I began studying machine learning in C# C++ languages ​​under the guidance of teachers. In 2021, I became interested in game development using Unity. At the beginning of 2022, my journey as a Unity developer began. I've been programming artificial intelligence for video games in Unity for 2.5 years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/MrAdamTaylor" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/adam-taylor-gameai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/MrAdamTaylor"><img src="https://github-readme-stats.vercel.app/api?username=MrAdamTaylor&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=22c55e&text_color=6366f1&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="MrAdamTaylor's GitHub stats" /></a>
+
+<a href="http://www.github.com/MrAdamTaylor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAdamTaylor&stroke=6366f1&background=000000&ring=22c55e&fire=22c55e&currStreakNum=6366f1&currStreakLabel=22c55e&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/MrAdamTaylor/Base-ECS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=Base-ECS&title_color=22c55e&text_color=6366f1&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/MrAdamTaylor/DesignPatternPractics" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=DesignPatternPractics&title_color=22c55e&text_color=6366f1&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/MrAdamTaylor/MVO-pattern" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=MVO-pattern&title_color=22c55e&text_color=6366f1&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/MrAdamTaylor/MyDIFramework" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=MyDIFramework&title_color=22c55e&text_color=6366f1&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div>
