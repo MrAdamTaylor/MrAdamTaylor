@@ -1,45 +1,4 @@
-<style>
-
-    #main {
-
-        color: #6B90D5;
-        background-color: #202231;
-
-    }
-
-    h1 {
-        color: #62BAAE;
-    }
-
-    .head {
-        color: #62BAAE;
-        font-size: 27.5px;
-        margin-top: 12.5px;
-        margin-bottom: 2.5px;
-        margin-left: 10px
-    }
-
-    .stat {
-        margin-left: 10px;
-    }
-
-    .card {
-        /* margin-left: 20%; */
-        width: 90%;
-        /* display: inline-block; */
-    }
-
-    .left {
-        margin-left: 6.5%;
-    }
-
-    .right {
-        margin-left: 37.5%;
-    }
-
-</style>
-
-<div id='main'>
+<div style='color: #6B90D5; background-color: #202231;'>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Adam%20Taylor&textBg=false&section=header&fontAlign=31&animation=fadeIn&rotate=-4&fontAlignY=28&descSize=40&desc=C%23%20Unity%20Developer&descAlign=60&descAlignY=55&theme=tokyonight)
 
@@ -51,7 +10,7 @@
 
 ---
 
-<p class='head'>Skills</p>
+<p style='color: #62BAAE; font-size: 27.5px; margin-top: 12.5px; margin-bottom: 2.5px; margin-left: 10px'>Skills</p>
 
 <table style='margin-left: 3.5%'>
     <tr>
@@ -100,7 +59,7 @@
 
 ---
 
-<p class='head'>Socials</p>
+<p style='color: #62BAAE; font-size: 27.5px; margin-top: 12.5px; margin-bottom: 2.5px; margin-left: 10px'>Socials</p>
 
 <div style='text-align: center;' >
 
@@ -112,7 +71,7 @@
 
 ---
 
-<p class='head'>My GitHub Stats</p>
+<p style='color: #62BAAE; font-size: 27.5px; margin-top: 12.5px; margin-bottom: 2.5px; margin-left: 10px'>My GitHub Stats</p>
 
 <div style='margin-left: 15%; margin-top: 10px'>
 
@@ -122,29 +81,29 @@
 
 ---
 
-<p class='head'>Top Repositories</p>
+<p style='color: #62BAAE; font-size: 27.5px; margin-top: 12.5px; margin-bottom: 2.5px; margin-left: 10px'>Top Repositories</p>
 
 <br />
 
-<div class='card left'>
+<div style='margin-left: 6.5%'>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=Base-ECS&theme=tokyonight)
 
 </div>
 
-<div class='card right'>
+<div style='margin-left: 37.5%;'>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=DesignPatternPractics&theme=tokyonight)
 
 </div>
 
-<div class='card left'>
+<div style='margin-left: 6.5%;'>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=MVO-pattern&theme=tokyonight)
 
 </div>
 
-<div class='card right'>
+<div style='margin-left: 37.5%;'>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=MyDIFramework&theme=tokyonight)
 
