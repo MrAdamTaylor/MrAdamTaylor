@@ -1,34 +1,155 @@
+<style>
 
-Hi 👋 My name is Adam Taylor
-============================
+    #main {
 
-C# Unity Developer
-------------------
+        color: #6B90D5;
+        background-color: #202231;
 
-My journey into it began with entering university in 2018. As part of my studies, I tried myself in many directions. Studied languages ​​C, C++, Python, C#. In 2020, I began studying machine learning in C# C++ languages ​​under the guidance of teachers. In 2021, I became interested in game development using Unity. At the beginning of 2022, my journey as a Unity developer began. I've been programming artificial intelligence for video games in Unity for 2.5 years.
+    }
 
-### Skills
+    h1 {
+        color: #62BAAE;
+    }
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
-</p>
+    .head {
+        color: #62BAAE;
+        font-size: 27.5px;
+        margin-top: 12.5px;
+        margin-bottom: 2.5px;
+        margin-left: 10px
+    }
 
-### Socials
+    .stat {
+        margin-left: 10px;
+    }
 
-<p align="left"> <a href="https://www.github.com/MrAdamTaylor" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/adam-taylor-gameai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+    .card {
+        /* margin-left: 20%; */
+        width: 90%;
+        /* display: inline-block; */
+    }
 
-### Badges
+    .left {
+        margin-left: 6.5%;
+    }
 
-<b>My GitHub Stats</b>
+    .right {
+        margin-left: 37.5%;
+    }
 
-<a href="http://www.github.com/MrAdamTaylor"><img src="https://github-readme-stats.vercel.app/api?username=MrAdamTaylor&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=22c55e&text_color=6366f1&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="MrAdamTaylor's GitHub stats" /></a>
+</style>
 
-<a href="http://www.github.com/MrAdamTaylor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAdamTaylor&stroke=6366f1&background=000000&ring=22c55e&fire=22c55e&currStreakNum=6366f1&currStreakLabel=22c55e&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
+<div id='main'>
 
-<b>Top Repositories</b>
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Adam%20Taylor&textBg=false&section=header&fontAlign=31&animation=fadeIn&rotate=-4&fontAlignY=28&descSize=40&desc=C%23%20Unity%20Developer&descAlign=60&descAlignY=55&theme=tokyonight)
 
-<div width="100%" align="center"><a href="https://github.com/MrAdamTaylor/Base-ECS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=Base-ECS&title_color=22c55e&text_color=6366f1&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/MrAdamTaylor/DesignPatternPractics" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=DesignPatternPractics&title_color=22c55e&text_color=6366f1&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p style='margin-left: 15px; margin-right: 15px; margin-top: -30px'> I started my IT journey in 2018 when I entered university. Throughout my studies, I explored various programming languages including C, C++, Python, and C#. </p>
 
-<br /><br /><br /><br /><br />
+<p style='margin-left: 15px; margin-right: 15px'> In 2020, I delved into machine learning with C# and C++ under the guidance of my professors. By 2021, my interests shifted towards game development, specifically using Unity.</p>
 
-<div width="100%" align="center"><a href="https://github.com/MrAdamTaylor/MVO-pattern" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=MVO-pattern&title_color=22c55e&text_color=6366f1&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/MrAdamTaylor/MyDIFramework" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=MyDIFramework&title_color=22c55e&text_color=6366f1&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<p style='margin-left: 15px; margin-right: 15px'> Since early 2022, I've been working as a Unity developer, focusing on programming artificial intelligence for video games for the past 2.5 years.</p>
+
+---
+
+<p class='head'>Skills</p>
+
+<table style='margin-left: 3.5%'>
+    <tr>
+        <td>Language:</td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="36" height="36" alt="C" />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="36" height="36" alt="C++" />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="36" height="36" alt="C#" />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" />
+        </td>
+    </tr>
+    <tr>
+        <td>Tools: </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="36" height="36" alt="Git" />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" />
+        </td>
+    </tr>
+    <tr>
+        <td>Apps: </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="36" height="36" alt="Blender" />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="36" height="36" alt="Photoshop" />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="36" height="36" alt="Illustrator" />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="36" height="36" alt="Premiere Pro" />
+        </td>
+    </tr>
+</table>
+
+---
+
+<p class='head'>Socials</p>
+
+<div style='text-align: center;' >
+
+<a href='https://www.linkedin.com/in/adam-taylor-gameai' style='magrgin-left: 20%'>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="Linkedin" />
+</a>
+
+</div>
+
+---
+
+<p class='head'>My GitHub Stats</p>
+
+<div style='margin-left: 15%; margin-top: 10px'>
+
+![Stat](https://github-readme-stats.vercel.app/api?username=MrAdamTaylor&show_icons=true&theme=tokyonight&hide=prs,contribs)
+
+</div>
+
+---
+
+<p class='head'>Top Repositories</p>
+
+<br />
+
+<div class='card left'>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=Base-ECS&theme=tokyonight)
+
+</div>
+
+<div class='card right'>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=DesignPatternPractics&theme=tokyonight)
+
+</div>
+
+<div class='card left'>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=MVO-pattern&theme=tokyonight)
+
+</div>
+
+<div class='card right'>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=MyDIFramework&theme=tokyonight)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&section=footer&animation=fadeIn&theme=tokyonight)
+
+</div>
