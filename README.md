@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Adam%20Taylor&textBg=false&section=header&fontAlign=31&animation=fadeIn&rotate=-4&fontAlignY=28&descSize=40&desc=C%23%20Unity%20Developer&descAlign=60&descAlignY=55&theme=tokyonight)
 
+<p style='margin-left: 15px; margin-right: 15px; margin-top: -30px'>Good day! My name is Adam.
+
 <p style='margin-left: 15px; margin-right: 15px; margin-top: -30px'> I started my IT journey in 2018 when I entered university. Throughout my studies, I explored various programming languages including C, C++, Python, and C#. </p>
 
 <p style='margin-left: 15px; margin-right: 15px'> In 2020, I delved into machine learning with C# and C++ under the guidance of my professors. By 2021, my interests shifted towards game development, specifically using Unity.</p>
