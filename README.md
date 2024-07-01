@@ -111,6 +111,8 @@
 
 </div>
 
+<p style='color: #62BAAE; font-size: 27.5px; margin-top: 12.5px; margin-bottom: 2.5px; margin-left: 10px'>The portfolio is an indicator of my flexibility to market requirements and readiness to perform any tasks. You can view my AI portfolio if we contact you.
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&section=footer&animation=fadeIn&theme=tokyonight)
 
 </div>
