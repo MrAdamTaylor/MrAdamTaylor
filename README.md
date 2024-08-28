@@ -87,6 +87,23 @@
 
 <br />
 
+<p style='color: #62BAAE; font-size: 27.5px; margin-top: 12.5px; margin-bottom: 2.5px; margin-left: 10px'>Test Works from real Companies</p>
+
+<div style='margin-left: 6.5%;'>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=Top-Down-Shooter&theme=tokyonight)
+
+</div>
+
+<div style='margin-left: 37.5%;'>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=TestWork_Puzzle&theme=tokyonight)
+
+</div>
+
+
+<p style='color: #62BAAE; font-size: 27.5px; margin-top: 12.5px; margin-bottom: 2.5px; margin-left: 10px'>Techologies</p>
+
 <div style='margin-left: 6.5%'>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAdamTaylor&repo=Base-ECS&theme=tokyonight)
