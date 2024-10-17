@@ -6,9 +6,9 @@
 
 <p style='margin-left: 15px; margin-right: 15px; margin-top: -30px'> I started my IT journey in 2018 when I entered university. Throughout my studies, I explored various programming languages including C, C++, Python, and C#. </p>
 
-<p style='margin-left: 15px; margin-right: 15px'> In 2020, I delved into machine learning with C# and C++ under the guidance of my professors. By 2021, my interests shifted towards game development, specifically using Unity.</p>
+<p style='margin-left: 15px; margin-right: 15px; margin-top: -30px'> Since 2022 I have been programming video games on the Unity engine </p>
 
-<p style='margin-left: 15px; margin-right: 15px'> Since early 2022, I've been working as a Unity developer, focusing on programming artificial intelligence for video games for the past 2.5 years.</p>
+
 
 ---
 
